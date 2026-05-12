@@ -5,7 +5,7 @@ I do a little bit of everything.
 <br/>
 
 <div align="center">
-  <img src="profile.gif" width="300px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=5BC0BE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=I+do+a+little+bit+of+everything;Coding+since+2018+%7C+Python+%7C+Java+%7C+Go;Building+Telegram+Bots+%26+Downloaders" alt="Typing Animation" />
 </div>
 
 <br/>
