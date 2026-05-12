@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 # Hi <img src="https://emojis.slackmojis.com/emojis/images/1621155388/39455/frog_nod.gif" width="30"/>, I'm Mohamad Nori
 
 I do a little bit of everything.
@@ -18,6 +20,12 @@ I do a little bit of everything.
 
 <br/>
 
+| 🎂 Born | 🚀 Coding since | 💻 Languages & Tools |
+|:-------:|:---------------:|:---------------------|
+| May 5, 2009 | 2018 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="28" style="margin:0 2px; background:#0B132B; padding:4px; border-radius:8px"/> |
+
+<br/>
+
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
@@ -33,12 +41,6 @@ I do a little bit of everything.
 <div align="center">
   <img src="https://count.getloli.com/@mamadprogrammer?theme=original-new"/>
 </div>
-
-<br/>
-
-| 🎂 Born | 🚀 Coding since | 💻 Languages |
-|:-------:|:---------------:|:-------------|
-| May 5, 2009 | 2018 | Java, JavaScript/Node.js, PHP, C/C++, C#, Python, Bash, Lua, Go |
 
 <br/>
 
