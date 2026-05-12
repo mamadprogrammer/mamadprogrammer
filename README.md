@@ -28,4 +28,4 @@ I do a little bit of everything.
 
 | Born | Coding since | Languages |
 |:----:|:------------:|:----------|
-| May 5, 2009 | 2018 (7+ years) | Java, JavaScript/Node.js, PHP, C/C++, C#, Python, Bash, Lua, Go |
+| May 5, 2009 | 2018 | Java, JavaScript/Node.js, PHP, C/C++, C#, Python, Bash, Lua, Go |
