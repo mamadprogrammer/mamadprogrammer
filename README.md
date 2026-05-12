@@ -26,7 +26,6 @@ I do a little bit of everything.
   <img src="https://count.getloli.com/@mamadprogrammer?theme=original-new"/>
 </div>
 
-| | |
 |-|-|
 | 🎂 **Born** | May 5, 2009 |
 | 🚀 **Coding since** | 2018 (7+ years) |
