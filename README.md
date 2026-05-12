@@ -5,7 +5,7 @@ I do a little bit of everything.
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=5BC0BE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=I+do+a+little+bit+of+everything;Coding+since+2018+%7C+Python+%7C+Java+%7C+Go;Building+Telegram+Bots+%26+Downloaders" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Mohamad%20Nori&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38&desc=Teenage%20Developer%20%7C%20Iran%20Under%20Construction&descAlignY=61" alt="Header Banner" />
 </div>
 
 <br/>
