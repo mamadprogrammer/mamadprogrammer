@@ -29,3 +29,10 @@ I do a little bit of everything.
 | Born | Coding since | Languages |
 |:----:|:------------:|:----------|
 | May 5, 2009 | 2018 | Java, JavaScript/Node.js, PHP, C/C++, C#, Python, Bash, Lua, Go |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-blue?logo=java">
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python">
+  <img src="https://img.shields.io/badge/Age-16-brightgreen">
+  <img src="https://img.shields.io/badge/Experience-7%2B%20years-brightgreen">
+</p>
