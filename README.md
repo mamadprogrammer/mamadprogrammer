@@ -4,9 +4,7 @@ I do a little bit of everything.
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Mohamad%20Nori&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38&desc=Teenage%20Developer%20%7C%20Iran%20Under%20Construction&descAlignY=61" alt="Header Banner" />
-</div>
+
 
 <br/>
 
