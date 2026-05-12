@@ -36,3 +36,13 @@ I do a little bit of everything.
   <img src="https://img.shields.io/badge/Age-16-brightgreen">
   <img src="https://img.shields.io/badge/Experience-7%2B%20years-brightgreen">
 </p>
+
+<pre align="center">
+█▀▀░█▀█░█▀▀░█░░░█▀▀░█▀▀░█▀▄
+█░░░█░█░█▀▀░█░░░█▀▀░█▀▀░█░█
+▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀░
+</pre>
+
+<p align="center">
+  <i>"Write code like a poet, debug like a detective"</i>
+</p>
