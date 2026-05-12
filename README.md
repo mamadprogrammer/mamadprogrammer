@@ -25,3 +25,9 @@ I do a little bit of everything.
 <div align="center">
   <img src="https://count.getloli.com/@mamadprogrammer?theme=original-new"/>
 </div>
+
+| | |
+|-|-|
+| 🎂 **Born** | May 5, 2009 |
+| 🚀 **Coding since** | 2018 (7+ years) |
+| 💻 **Languages** | Java, JavaScript/Node.js, PHP, C/C++, C#, Python, Bash, Lua, Go |
